@@ -1,5 +1,5 @@
 {
-  "exportDate": "2025-11-23T15:18:03.119Z",
+  "exportDate": "2025-11-23T15:27:07.119Z",
   "books": {
     "4873115655": {
       "title": "リーダブルコード",
@@ -11,9 +11,43 @@
       "addedDate": 1763910890096,
       "memo": "",
       "rating": 0
+    },
+    "4297127830": {
+      "title": "良いコード/悪いコードで学ぶ設計入門―保守しやすい成長し続けるコードの書き方",
+      "authors": "仙塲大也",
+      "acquiredTime": 1763911606644,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4297127830.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1763911606644,
+      "memo": "",
+      "rating": 0
     }
   },
-  "bookshelves": [],
+  "bookshelves": [
+    {
+      "id": "bookshelf_1763911407872",
+      "name": "読了",
+      "emoji": "📚",
+      "description": "",
+      "isPublic": false,
+      "books": [
+        "4873115655",
+        "4297127830"
+      ],
+      "createdAt": "2025-11-23T15:23:27.872Z",
+      "lastUpdated": "2025-11-23T15:23:43.809Z"
+    },
+    {
+      "id": "bookshelf_1763911420248",
+      "name": "積読",
+      "emoji": "📚",
+      "description": "",
+      "isPublic": false,
+      "books": [],
+      "createdAt": "2025-11-23T15:23:40.248Z"
+    }
+  ],
   "settings": {
     "defaultView": "hybrid",
     "showHighlights": true,
@@ -25,7 +59,7 @@
   },
   "bookOrder": {},
   "stats": {
-    "totalBooks": 1,
+    "totalBooks": 2,
     "notesCount": 0
   },
   "version": "2.0"
