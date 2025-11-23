@@ -1,6 +1,28 @@
 {
-  "exportDate": "2025-11-23T15:27:07.119Z",
+  "exportDate": "2025-11-23T18:43:54.421Z",
   "books": {
+    "4048930591": {
+      "title": "Clean Code アジャイルソフトウェア達人の技",
+      "authors": "Robert C.Martin",
+      "acquiredTime": 1763923226127,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4048930591.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1763923226127,
+      "memo": "",
+      "rating": 0
+    },
+    "4048930656": {
+      "title": "Clean Architecture",
+      "authors": "Robert C. Martin",
+      "acquiredTime": 1763923311523,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4048930656.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1763923311523,
+      "memo": "",
+      "rating": 0
+    },
     "4873115655": {
       "title": "リーダブルコード",
       "authors": "Dustin Boswell, Trevor Foucher",
@@ -22,6 +44,39 @@
       "addedDate": 1763911606644,
       "memo": "",
       "rating": 0
+    },
+    "4826902433": {
+      "title": "情報セキュリティの敗北史",
+      "authors": "アンドリュー・スチュワート",
+      "acquiredTime": 1763923256602,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4826902433.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1763923256602,
+      "memo": "",
+      "rating": 0
+    },
+    "4839981728": {
+      "title": "単体テストの考え方/使い方",
+      "authors": "Vladimir Khorikov",
+      "acquiredTime": 1763923360862,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4839981728.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1763923360862,
+      "memo": "",
+      "rating": 0
+    },
+    "4297144840": {
+      "title": "コード×AIーソフトウェア開発者のための生成AI実践入門",
+      "authors": "服部佑樹",
+      "acquiredTime": 1763923400072,
+      "readStatus": "UNKNOWN",
+      "productImage": "https://images-na.ssl-images-amazon.com/images/P/4297144840.01.L.jpg",
+      "source": "manual_add",
+      "addedDate": 1763923400072,
+      "memo": "",
+      "rating": 0
     }
   },
   "bookshelves": [
@@ -33,7 +88,8 @@
       "isPublic": false,
       "books": [
         "4873115655",
-        "4297127830"
+        "4297127830",
+        "4297144840"
       ],
       "createdAt": "2025-11-23T15:23:27.872Z",
       "lastUpdated": "2025-11-23T15:23:43.809Z"
@@ -46,6 +102,15 @@
       "isPublic": false,
       "books": [],
       "createdAt": "2025-11-23T15:23:40.248Z"
+    },
+    {
+      "id": "bookshelf_1763923181060",
+      "name": "読書中",
+      "emoji": "📚",
+      "description": "",
+      "isPublic": false,
+      "books": [],
+      "createdAt": "2025-11-23T18:39:41.060Z"
     }
   ],
   "settings": {
@@ -59,7 +124,7 @@
   },
   "bookOrder": {},
   "stats": {
-    "totalBooks": 2,
+    "totalBooks": 7,
     "notesCount": 0
   },
   "version": "2.0"
